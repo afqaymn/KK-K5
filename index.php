@@ -5,7 +5,7 @@
 
 <html>
 	<head>
-	<title>Senarai Suhu Staf</title>
+	<title>Senarai Suhu</title>
 	</head>
 	<style>
 	h1 {
